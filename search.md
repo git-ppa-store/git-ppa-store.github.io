@@ -7,6 +7,6 @@
 
 
 ### Search bar is unavailable. Please use SupTab Search
-|Selection| Categories |
+| Selection | Categories |
 |--|--|
 | **X** | No data | 
