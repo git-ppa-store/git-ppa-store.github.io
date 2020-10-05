@@ -6,7 +6,7 @@
 |[Home](https://git-ppa-store.github.io/) | [Featured PPA](https://git-ppa-store.github.io/featured-ppa) | [Submit PPA](https://git-ppa-store.github.io/submit-ppa) | [Search](https://git-ppa-store.github.io/search)
 
 
-### Search bar is unavailable. Please use SupTab Search
-| Selection | Categories |
+**Search bar is unavailable. Please use SupTab Search**
+|Selection| Categories |
 |--|--|
 | **X** | No data | 
